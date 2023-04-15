@@ -41,5 +41,5 @@ int main()
     printf("Enter r: ");;
     scanf("%d",&r);
     int ncr = factorial(n)/(factorial(r)*factorial(n-r));
-    printf("%d",ncr);
+    printf("%d",ncr); 
 }
