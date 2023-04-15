@@ -30,7 +30,7 @@ int main() //! code always starts from main function
     void india(){
         printf("You are in India\n");
         australia();
-        return;
+        return; 
     }
 
     int main(){
