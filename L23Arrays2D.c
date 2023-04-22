@@ -1,18 +1,18 @@
 //! Basic Syntax
 
-// #include <stdio.h>
-// int main(){
-// int arr[2][2];  //* Declaration of a 2-Dimensional Array
-// //* Initialisation
-// arr[0][0] = 1;
-// arr[0][1] = 2;
-// arr[1][0] = 3;
-// arr[1][1] = 4;
+#include <stdio.h>
+int main(){
+int arr[2][2];  //* Declaration of a 2-Dimensional Array
+//* Initialisation
+arr[0][0] = 1;
+arr[0][1] = 2;
+arr[1][0] = 3;
+arr[1][1] = 4;
 //*This looks something like this:
 
 //* 1 2
 //* 3 4
-//}
+}
 
 //! Different way of initialisation
 //cow  int arr[2][2] = {{1,2},{3,4}};
